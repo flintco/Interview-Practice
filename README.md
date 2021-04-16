@@ -1,7 +1,7 @@
 # InterviewPractice
 
 Topics:
--Arrays
--Trees
--Stacks and Queues
--Bit Manipulation
+* Arrays
+* Trees
+* Stacks and Queues
+* Bit Manipulation
